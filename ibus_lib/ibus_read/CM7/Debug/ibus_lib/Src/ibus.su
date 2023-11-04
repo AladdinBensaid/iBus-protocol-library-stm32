@@ -1,4 +1,0 @@
-../ibus_lib/Src/ibus.c:6:6:ibus_init_communication	16	static
-../ibus_lib/Src/ibus.c:13:6:read_ibus_frame	16	static
-../ibus_lib/Src/ibus.c:25:6:check_ibus	24	static
-../ibus_lib/Src/ibus.c:48:6:read_ibus_channels	24	static

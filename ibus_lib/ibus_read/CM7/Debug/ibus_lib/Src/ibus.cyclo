@@ -1,4 +1,0 @@
-ibus.c:6:6:ibus_init_communication	1
-ibus.c:13:6:read_ibus_frame	2
-ibus.c:25:6:check_ibus	4
-ibus.c:48:6:read_ibus_channels	2
